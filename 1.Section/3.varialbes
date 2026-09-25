@@ -10,3 +10,9 @@ ip='192.168.3.12'
 ram_gb=32
 user='admin'
 
+
+
+is_online= TRUE #boolean
+is_active = False
+
+
