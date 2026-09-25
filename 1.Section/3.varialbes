@@ -4,3 +4,7 @@ spam+spam=44
 
 spam='hello'
 spam+'world' = helloworld
+
+server="DC_01"
+ip='192.168.3.12'
+ram_gb=32
